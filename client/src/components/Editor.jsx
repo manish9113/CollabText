@@ -49,7 +49,7 @@ function Editor() {
 
   // Connect to Socket.IO server
   useEffect(() => {
-    const socketInstance = io("http://localhost:9000"); // Connect to server at localhost:9000
+    const socketInstance = io("https://collabtext-backend.onrender.com"); // Connect to server at localhost:9000
     setSocket(socketInstance);
 
     return () => {
