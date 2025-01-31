@@ -28,7 +28,7 @@ A **real-time collaborative text editor** built using **Socket.IO** and **Quill.
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/manish9113/CollabText.git
 cd repo-name
 2️⃣ Install Dependencies
 npm install
